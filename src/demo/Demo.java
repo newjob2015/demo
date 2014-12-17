@@ -1,5 +1,5 @@
 package demo;
 public class Demo {
 
-	private String msg="";
+	private String msg="111";
 }
